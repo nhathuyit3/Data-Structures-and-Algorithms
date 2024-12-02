@@ -4,3 +4,4 @@ This repository will not only host description but also source code demo to furt
 # 1. Linked List: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list
 # 2. Double Linked List: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/doubly-linked-list
 # 3. Queue: https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/queue/Queue.js
+# 4. Stack: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack
