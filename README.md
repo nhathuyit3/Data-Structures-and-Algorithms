@@ -6,3 +6,4 @@ This repository will not only host description but also source code demo to furt
 # 3. Queue: https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/queue/Queue.js
 # 4. Stack: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack
 # 5. Hash Table: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/hash-table
+# 6. Heap: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/heap
