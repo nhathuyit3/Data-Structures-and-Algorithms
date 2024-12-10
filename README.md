@@ -8,3 +8,4 @@ This repository will not only host description but also source code demo to furt
 # 5. Hash Table: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/hash-table
 # 6. Heap: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/heap
 # 7. Priority Queue: https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/priority-queue/README.md
+# 8. Trie: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/trie
