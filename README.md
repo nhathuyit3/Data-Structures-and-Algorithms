@@ -10,3 +10,4 @@ This repository will not only host description but also source code demo to furt
 # 7. Priority Queue: https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/priority-queue/README.md
 # 8. Trie: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/trie
 # 9. Tree: https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree
+# 10. Graph: https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/graph/README.md
